@@ -2,7 +2,7 @@
 An Arduino source code that mutes/unmutes and ends the meeting using single multi-function button on Windows 10.
 
 #### DK
-leanoardo with Atmega32U4
+Arduino pro-micro/leanoardo with Atmega32U4
 
 #### Functions
 Quick press the button once to bring the zoom window to the front and mute it.  
