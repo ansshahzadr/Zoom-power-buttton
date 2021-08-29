@@ -1,15 +1,15 @@
 ## Zoom-power-buttton
-An Arduino source code that mutes/unmutes and ends the meeting using single multi-function button on Windows 10.
+An Arduino source code that mutes/unmutes and ends the meeting using single multi-function button
 
-#### DK
-Arduino pro-micro/leanoardo with Atmega32U4
+#DK
+leanoardo with Atmega32U4
 
-#### Functions
-Quick press the button once to bring the zoom window to the front and mute it.  
-Long press the button if the window is in the front will end the zoom meeting.  
+#Functions
+quick press the button once to bring the zoom window to the front and mute it
+long press the button if the window is in the front will end the zoom meeting
 
-Button Lib:  
+Button Lib:
 https://github.com/mathertel/OneButton
 
-Keyboard Lib:  
+Keyboard Lib:
 https://github.com/arduino-libraries/Keyboard
